@@ -1,2 +1,4 @@
-# Portfolio
-This portfolio showcases a collection of data science and data analysis projects that I have undertaken for academic purposes, self-learning, and personal hobbies. It is regularly updated to reflect my ongoing endeavors in the field. Additionally, this portfolio serves as a demonstration of my acquired skills and certifications.
+# Data Analytics Portfolio - Mira Banerji
+This portfolio presents a compilation of my data analysis endeavors pursued for academic studies, self-improvement, and personal interests. Continuously refreshed, it mirrors my current pursuits in the domain. Moreover, it stands as a testament to the skills and certifications I've attained.
+Email: mbanerji123@gmail.com
+LinkedIn: [linkedin.com/mirabanerji](https://www.linkedin.com/in/mirabanerji/)
